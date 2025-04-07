@@ -8,19 +8,9 @@
 
 ---
 
-## 🎓 Education
+## About Me:  
 
-**B.Tech in Computer Science**  
-*Techno International New Town* — CGPA: **8.28**  
-2020 – 2024
-
-**Class XII** – CBSE  
-*Modern English Academy* — **87.8%**  
-2019 – 2020
-
-**Class X** – CBSE  
-*Modern English Academy* — **93.2%**  
-2017 – 2018
+I’m Srinjoy Biswas, a passionate Computer Science graduate from Techno International New Town with a strong foundation in programming, problem-solving, and software development. I'm always eager to learn new technologies and build real-world projects. Outside of tech, I enjoy drawing, reading storybooks, revise my coding skills, and lastly cooking.
 
 ---
 
@@ -63,31 +53,6 @@ Moodle is an open-source learning management system and our team build an analys
 - Secured **8.28 CGPA** in college 
 - Participated in various inter-school drawing and quiz competitions
 
----
-
-## 💬 Languages
-
-- English  
-- Bengali  
-- Hindi  
-
----
-
-## 🧩 Hobbies
-
-- Drawing 
-- Reading storybooks  
-- Sleeping 
-- Trying out new technologies
-
----
-
-## ✅ Declaration
-
-I hereby declare that the information provided above is true to the best of my knowledge.
-
-*Date:* April 7, 2025  
-*Place:* Barrackpore
 
 
 
